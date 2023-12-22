@@ -1,4 +1,9 @@
 # resources_list
+------------------------------------------------------------
+
+audio AI
+https://vocalremover.org/
+------------------------------------------------------------
 
 https://www.bonjoro.com/
 video easy sharing & embedding
