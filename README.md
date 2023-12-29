@@ -2,6 +2,12 @@
 
 
 ------------------------------------------------------------
+convert audio to subtitle
+```
+vosk-transcriber -l hi -i Untitled.mp3 -t srt -o test.srt
+```
+https://alphacephei.com/vosk/install
+------------------------------------------------------------
 
 audio AI
 https://vocalremover.org/
